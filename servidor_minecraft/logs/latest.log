@@ -32,3 +32,14 @@
 [30Dec2024 18:44:12.613] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1013 ms
 [30Dec2024 18:44:12.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.562s)! For help, type "help"
 [30Dec2024 18:44:12.650] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Dec2024 18:57:44.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Dec2024 18:57:44.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Dec2024 18:57:44.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Dec2024 18:57:44.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Dec2024 18:57:44.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Dec2024 18:57:44.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Dec2024 18:57:44.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Dec2024 18:57:44.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Dec2024 18:57:44.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Dec2024 18:57:44.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Dec2024 18:57:44.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
