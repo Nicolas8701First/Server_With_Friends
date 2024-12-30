@@ -67,3 +67,17 @@
 [30Dec2024 21:47:19.039] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14588 ms
 [30Dec2024 21:47:19.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (28.287s)! For help, type "help"
 [30Dec2024 21:47:19.058] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Dec2024 21:59:20.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FREDERICKyjuste[/127.184.177.57:38937] logged in with entity id 32 at (-86.5, 165.0, -20.5)
+[30Dec2024 21:59:20.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FREDERICKyjuste joined the game
+[30Dec2024 22:00:20.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=143, z=-22}
+[30Dec2024 22:00:20.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=142, z=-22}
+[30Dec2024 22:00:21.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=142, z=-21}
+[30Dec2024 22:00:27.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=140, z=-20}
+[30Dec2024 22:00:29.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=140, z=-20}
+[30Dec2024 22:00:31.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=140, z=-20}
+[30Dec2024 22:00:33.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=142, z=-20}
+[30Dec2024 22:00:37.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=140, z=-18}
+[30Dec2024 22:00:37.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-69, y=139, z=-18}
+[30Dec2024 22:00:43.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FREDERICKyjuste was shot by Skeleton
+[30Dec2024 22:00:47.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FREDERICKyjuste lost connection: Disconnected
+[30Dec2024 22:00:47.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FREDERICKyjuste left the game
