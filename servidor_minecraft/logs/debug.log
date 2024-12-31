@@ -646,3 +646,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Dec2024 14:12:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: curl ifconfig.me<--[HERE]
 [31Dec2024 14:13:05.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [31Dec2024 14:13:05.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nslookup bid-discovered.gl.joinmc.link<--[HERE]
+[31Dec2024 14:16:11.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 14:16:11.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 14:21:11.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 14:21:11.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 14:22:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Dec2024 14:22:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: curl ifconfig.me<--[HERE]

@@ -35,3 +35,5 @@
 [31Dec2024 14:12:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: curl ifconfig.me<--[HERE]
 [31Dec2024 14:13:05.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [31Dec2024 14:13:05.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nslookup bid-discovered.gl.joinmc.link<--[HERE]
+[31Dec2024 14:22:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Dec2024 14:22:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: curl ifconfig.me<--[HERE]
